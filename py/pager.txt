@@ -1,3 +1,0 @@
-hiii
-this is abc
-Python is easy
